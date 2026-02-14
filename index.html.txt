@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOLA Cafe & More - Menu</title>
+    <style>
+        body { background: #fdfdfd; text-align: center; font-family: sans-serif; margin: 0; }
+        .menu-header { padding: 20px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .menu-image { width: 100%; max-width: 800px; display: block; margin: 20px auto; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <div class="menu-header">
+        <h1>HOLA Cafe & More</h1>
+        <p>Scroll to see our full menu</p>
+    </div>
+    <img src="drinks1.jpg" class="menu-image" alt="Drinks Menu 1">
+    <img src="drinks2.jpg" class="menu-image" alt="Drinks Menu 2">
+    <img src="food1.jpg" class="menu-image" alt="Food Menu 1">
+    <img src="food2.jpg" class="menu-image" alt="Food Menu 2">
+</body>
+</html>
